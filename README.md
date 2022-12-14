@@ -29,39 +29,27 @@
 > Front-End : React.js, styled component,
 > Back-End : My SQL, Node.js
 > Common : RESTful API
-
-### **구현 기능**
-
-- 카카오 소셜로그인(REST API)
-- 메인 페이지
-  - 슬라이드
-  - 카테고리별 필터링 기능
-  - 좋아요 기능 
-- 크리에이터 센터 페이지
-    - 클래스 등록
-    - 동영상 녹화
-    - 클래스 내 동영상 등록
-    - 등록된 동영상 플레이 기능
-- 상세페이지
-    - 슬라이드
-    - 현재페이지 링크 복사
-    - 리뷰 등록 기능
-- 마이페이지
-    - 슬라이드
-    - 좋아요 한 상품 불러오기
     
     
 ### **담당 부분**
 
 - 상세페이지
-    - react-slick을 이용한 슬라이드 구현
-    - CSS Position Sticky 으로 서브 메뉴바 상단 고정
-    - 모달창을 이용해 후기 등록 구현
-    - FileReader를 이용해 등록한 이미지 프리뷰 구현
-    - 폼데이터 전송으로 후기 등록
-    - 후기 등록/수정 모달창 재사용
-    - clipboard로 현재 링크 복사하기
-    - 좋아요 버튼 클릭시 숫자 증감
+  - react-slick을 이용한 슬라이드 구현 <br>
+    <img src="https://user-images.githubusercontent.com/104541695/207515314-799ff05d-826d-4c89-aadb-9b450213f1ab.gif" width=30% height=30%/>
+
+  
+  - CSS Position Sticky 으로 서브 메뉴바 상단 고정 <br>
+  <img src="https://user-images.githubusercontent.com/104541695/207515768-9d8604fd-3cd2-4cae-af01-fd5a34c20395.gif" width=30% height=30%/>
+  
+  - 모달창을 이용해 후기 등록 구현
+  - FileReader를 이용해 등록한 이미지 프리뷰 구현
+  - 폼데이터 전송으로 후기 등록
+  - 후기 등록/수정 모달창 재사용 <br>
+  <img src="https://user-images.githubusercontent.com/104541695/207516527-c04aa9f7-c38d-4b53-a338-c8ad8e808909.gif" width=30% height=30%/>
+    
+  - clipboard로 현재 링크 복사하기
+  - 좋아요 버튼 클릭시 숫자 증감
+
 - 결제페이지
     
     ## **Reference**
