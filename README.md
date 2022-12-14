@@ -35,17 +35,17 @@
 
 - 상세페이지
   - react-slick을 이용한 슬라이드 구현 <br>
-    <img src="https://user-images.githubusercontent.com/104541695/207515314-799ff05d-826d-4c89-aadb-9b450213f1ab.gif" width=30% height=30%/>
+    <img src="https://user-images.githubusercontent.com/104541695/207515314-799ff05d-826d-4c89-aadb-9b450213f1ab.gif" width=40% height=40%/>
 
   
   - CSS Position Sticky 으로 서브 메뉴바 상단 고정 <br>
-  <img src="https://user-images.githubusercontent.com/104541695/207515768-9d8604fd-3cd2-4cae-af01-fd5a34c20395.gif" width=30% height=30%/>
+  <img src="https://user-images.githubusercontent.com/104541695/207515768-9d8604fd-3cd2-4cae-af01-fd5a34c20395.gif" width=40% height=40%/>
   
   - 모달창을 이용해 후기 등록 구현
   - FileReader를 이용해 등록한 이미지 프리뷰 구현
   - 폼데이터 전송으로 후기 등록
   - 후기 등록/수정 모달창 재사용 <br>
-  <img src="https://user-images.githubusercontent.com/104541695/207516527-c04aa9f7-c38d-4b53-a338-c8ad8e808909.gif" width=30% height=30%/>
+    <img src="https://user-images.githubusercontent.com/104541695/207516527-c04aa9f7-c38d-4b53-a338-c8ad8e808909.gif" width=40% height=40%/>
     
   - clipboard로 현재 링크 복사하기
   - 좋아요 버튼 클릭시 숫자 증감
